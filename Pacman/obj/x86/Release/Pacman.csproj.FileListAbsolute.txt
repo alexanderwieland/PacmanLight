@@ -1,0 +1,9 @@
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\bin\Release\Pacman.exe
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\bin\Release\Pacman.pdb
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\Pacman.Form1.resources
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\Pacman.Properties.Resources.resources
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\Pacman.exe
+C:\Users\Philo\Documents\Schule\4AHITT\APR\Programme\Pacman\Pacman\obj\x86\Release\Pacman.pdb
